@@ -11,3 +11,4 @@ This project performs data analysis using Python, Pandas, Matplotlib, Seaborn, a
 - Jupyter Notebook
 
 ## Live demo 
+ https://sanjaykmar45-git.github.io/ML-projects/
